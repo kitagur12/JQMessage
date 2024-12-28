@@ -1,0 +1,4 @@
+name: ChatChenger
+version: 1.0.0
+main: chat\Main
+api: 5.0.0
